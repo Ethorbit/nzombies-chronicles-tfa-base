@@ -1,2 +1,2 @@
 # nzombies-chronicles-tfa-base
-Archive of the customized TFA Base used in nZC Servers
+Archive of a modified Legacy TFA Base used for nZC Servers
